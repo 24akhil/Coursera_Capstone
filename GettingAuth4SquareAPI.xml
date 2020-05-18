@@ -1,0 +1,17 @@
+https://api.foursquare.com/v2/users/484542633?client_id=LLS34X5RIV15VEB1AJ4KX3C3ZHWDUYPB21OQNFJXOPS4GAUM&client_secret=IIYFWKHLH23D3DGCQRGVQCLVBWBGI53XYPMVGX0HS1ZKJENL&v=20180604
+
+
+https://api.foursquare.com/v2/venues/3fd66200f964a520f4e41ee3/tips?client_id=LLS34X5RIV15VEB1AJ4KX3C3ZHWDUYPB21OQNFJXOPS4GAUM&client_secret=IIYFWKHLH23D3DGCQRGVQCLVBWBGI53XYPMVGX0HS1ZKJENL&v=20180604&limit=19
+
+
+url = 'https://api.foursquare.com/v2/users/{}?client_id={}&client_secret={}&oauth_token={}&v={}'.format(user_id, CLIENT_ID, CLIENT_SECRET, ACCESS_TOKEN, VERSION)
+
+https://foursquare.com/oauth2/authenticate?client_id=LLS34X5RIV15VEB1AJ4KX3C3ZHWDUYPB21OQNFJXOPS4GAUM&response_type=code&redirect_uri=https://www.google.com
+
+browser:: https://www.google.com/?code=RZRVXZVAFMAJ0FV21GOHTQSQ4QDOBYNHAPUXJT4JAJQW05N5#_=_
+
+
+https://foursquare.com/oauth2/access_token?client_id=LLS34X5RIV15VEB1AJ4KX3C3ZHWDUYPB21OQNFJXOPS4GAUM&client_secret=IIYFWKHLH23D3DGCQRGVQCLVBWBGI53XYPMVGX0HS1ZKJENL&grant_type=authorization_code&redirect_uri=https://www.google.com&code=RZRVXZVAFMAJ0FV21GOHTQSQ4QDOBYNHAPUXJT4JAJQW05N5#_=
+
+
+{"access_token":"O2RQJWX4J2IUSI5M225214DG500MAF3EPXXGIIOJ53C2QO13"}
